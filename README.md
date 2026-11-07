@@ -1,4 +1,11 @@
 # 🗳️ Election Management System (EMS) - Spring Boot Backend
+---
+![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.1.5-green?style=for-the-badge&logo=spring)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
+![JWT](https://img.shields.io/badge/JWT-Authentication-red?style=for-the-badge&logo=json-web-tokens)
+![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=for-the-badge&logo=swagger)
+---
 
 A robust, scalable, and secure backend for an **Election Management System** built with Spring Boot. This system facilitates the entire election lifecycle, from voter registration and party creation to nomination processing, voting, and result computation.
 
